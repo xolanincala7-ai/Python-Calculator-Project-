@@ -24,4 +24,4 @@ Approach: Encapsulation of operations in a Calculator class, interactive menu lo
 # Results
 The calculator runs interactively, allowing users to perform multiple operations in sequence. Results are stored and displayed at exit, ensuring users can track their calculation history. The project highlights practical application of OOP, exception handling, and user interaction in Python.
 
-# Please observe this project code (.py file) — it is part of my programming practice portfolio, applying Python and OOP concepts to build functional tools.
+**Please observe this project code (.py file)** — it is part of my programming practice portfolio, applying Python and OOP concepts to build functional tools.
