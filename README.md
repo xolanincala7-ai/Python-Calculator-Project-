@@ -3,7 +3,7 @@ This project simulates a Python script as a Calculator using Object‑Oriented P
 
 # Project Preview 
 
-Screenshot: 
+Screenshot: https://github.com/xolanincala7-ai/Python-Calculator-Project-/blob/main/calc.screenshot.png
 
 # Features
 Basic Operations: Addition, subtraction, multiplication, division (with zero‑division protection).
